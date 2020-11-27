@@ -1,0 +1,10 @@
+메모
+
+cloud 컴퓨팅 <스토리지>
+1. 스토리지 계정 : 스토리지 계정이름 정하기/ 계정종류 blobstorage
+2. 스토리지 만들기 : 컨테이너 선택 -> 추가, 익명 읽기 액세스
+3. 컨테이너에서 업로드 테스트
+4. Azure API install 
+    python -m pip install azure-storage-blob
+    upload.py 작성 (연결문자열=액세스키, container name="컨테이너이름")
+    
